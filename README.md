@@ -1,5 +1,5 @@
 # ImagePicker
- SwiftUI ImagePicker with add/delete/save/update functions
+ImagePicker in SwiftUI with UIKit UIViewControllerRepresentable with add/delete/save/update functions
  
  | MainView  |
 | ------------- |
