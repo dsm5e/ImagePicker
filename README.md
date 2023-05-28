@@ -3,5 +3,6 @@
  
  | MainView  |
 | ------------- |
-| ![ImagePicker](https://github.com/dsm5e/ImagePicker/assets/88927934/7cb735df-c659-440e-873c-7060625d4b3c) |
+| ![ImagePicker](https://github.com/dsm5e/ImagePicker/assets/88927934/4ac7fda9-f639-4316-b291-f81b831ac7e7) |
+
 
